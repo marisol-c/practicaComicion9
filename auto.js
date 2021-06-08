@@ -1,0 +1,1 @@
+let auto = [fiat, ford, fiesta];
